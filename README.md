@@ -65,35 +65,6 @@ $mentor-guided-learning
 
 WIP: coming soon
 
-### Method 3: Git Clone
-
-For CodeX:
-```bash
-git clone https://github.com/guanyu-gerry-tao/skill-mentor-guided-learning.git mentor-guided-learning-skill
-cd mentor-guided-learning-skill
-
-mkdir -p ~/.agents/skills
-cp -R skills/mentor-guided-learning ~/.agents/skills/
-```
-
-For Claude Code:
-```bash
-git clone https://github.com/guanyu-gerry-tao/skill-mentor-guided-learning.git mentor-guided-learning-skill
-cd mentor-guided-learning-skill
-
-mkdir -p ~/.claude/skills
-cp -R skills/mentor-guided-learning ~/.claude/skills/
-```
-
-For Gemini CLI:
-```bash
-git clone https://github.com/guanyu-gerry-tao/skill-mentor-guided-learning.git mentor-guided-learning-skill
-cd mentor-guided-learning-skill
-
-mkdir -p ~/.gemini/skills
-cp -R skills/mentor-guided-learning ~/.gemini/skills/
-```
-
 ## Validate (Optional)
 
 If you have Python3 and the `skill-creator` skill installed, validate with:
