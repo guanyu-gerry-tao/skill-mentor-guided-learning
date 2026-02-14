@@ -50,12 +50,12 @@ Choose one method below.
 
 1. Download this repository as ZIP from GitHub (`Code` -> `Download ZIP`).
 2. Unzip it.
-3. Copy the folder `skills/mentor-guided-learning` to your Codex skills directory:
+3. Copy the folder `mentor-guided-learning` to your Codex skills directory:
    - CodeX: `~/.codex/skills/mentor-guided-learning`
      - or `~/.agents/skills/mentor-guided-learning` 
    - Claude Code: `~/.claude-code/skills/mentor-guided-learning`
    - Gemini CLI: `~/.gemini/skills/mentor-guided-learning`
-4. In the chat (not in ChatGPT or Gemini, in CodeX or Claude Code), invoke once to confirm it is available:
+4. In the chat (not in ChatGPT or Gemini, instead, in CodeX or Claude Code), invoke once to confirm it is available:
 
 ```text
 $mentor-guided-learning
