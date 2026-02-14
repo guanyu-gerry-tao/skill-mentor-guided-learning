@@ -16,9 +16,11 @@ It does not include first-time setup logic.
 ## Runtime Entry
 
 1. At each conversation turn, read:
+   - `.LEARNING/project-profile.md`
    - `.LEARNING/learner-profile.md`
    - `.LEARNING/mastery-map.md`
-2. Choose collaboration by `project_mentor_type` in `learner-profile.md`:
+2. If project scope, goals, or context is unclear, check `.LEARNING/project-profile.md` first, then continue.
+3. Choose collaboration by `project_mentor_type` in `learner-profile.md`:
    - `ai-lead-user-practice`: AI leads plan and pacing; user does key implementation; AI explains and debugs.
    - `ai-build-explain`: AI creates/edits code and validates; small-step write + explain for key parts in the user's language.
    - `ai-explain-human-build`: AI explains and provides steps; human implements; AI debugs based on results.
