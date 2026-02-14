@@ -27,7 +27,7 @@ It is designed for ongoing learning workflows in real projects, not one-off Q&A.
 
 Use this skill in CLI-first coding agents such as:
 
-- CodeX
+- Codex
 - Claude Code
 - Gemini CLI (when local/custom skill loading is supported)
 
@@ -52,7 +52,7 @@ If you have node, use `Terminal` and run:
 
 `npx skills add guanyu-gerry-tao/skill-mentor-guided-learning`
 
-install with instruction.
+Follow the CLI output instructions to finish installation.
 
 > [!TIP]
 > Check out [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to use `npx` if you can't run it.
@@ -62,11 +62,11 @@ install with instruction.
 1. Download this repository as ZIP from GitHub (`Code` -> `Download ZIP`).
 2. Unzip it.
 3. Copy the folder `mentor-guided-learning` to your Codex skills directory:
-   - CodeX: `~/.codex/skills/mentor-guided-learning`
+   - Codex: `~/.codex/skills/mentor-guided-learning`
      - or `~/.agents/skills/mentor-guided-learning` 
    - Claude Code: `~/.claude-code/skills/mentor-guided-learning`
    - Gemini CLI: `~/.gemini/skills/mentor-guided-learning`
-4. In the chat (not in ChatGPT or Gemini, instead, in CodeX or Claude Code), invoke once to confirm it is available:
+4. In the chat (not in the ChatGPT app), invoke once to confirm it is available:
 
 ```text
 $mentor-guided-learning
@@ -96,7 +96,7 @@ If not, you can also validate by invoking the skill and checking for any error m
     └── (other-skills/)
 ```
 
-## Staring My Project!
+## Starring My Project!
 
 ⭐️⭐️⭐️
 
@@ -109,7 +109,7 @@ If you like this skill or you actually learnt something with this skill, please 
 Contributions are welcome.
 
 1. Fork this repository and create a feature branch.
-2. Update files under `skills/mentor-guided-learning/`.
+2. Update files under `mentor-guided-learning/`.
 3. If you have `skill-creator`, run optional validation:
    `python3 ~/.codex/skills/.system/skill-creator/scripts/quick_validate.py ~/.codex/skills/mentor-guided-learning`
 4. Open a pull request with change summary and example usage.

@@ -48,7 +48,7 @@ Writing requirements:
 1. Explain concepts before code/commands.
 2. Every command must include interpretation and risk note.
 3. Next steps must be actionable.
-4. Style can align with `references/learning-note-example.md`.
+4. For `personal-project` notes, style can align with `references/project-note-example.md`.
 
 ## learner-profile Key Field
 

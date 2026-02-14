@@ -33,7 +33,7 @@ UPDATED: YYYY-MM-DD
 6. End with one navigation line:
 `Do you want to return to <current main learning goal>?`
 
-7. Align style with `references/learning-note-example.md`, and use `assets/LEARNING-template/learning-note-example.md` as the drafting skeleton (structure can be adjusted by topic).
+7. Align style with `.LEARNING/references/project-note-example.md`, and use `.LEARNING/project-note-example.md` as the drafting skeleton (structure can be adjusted by topic).
 
 ---
 

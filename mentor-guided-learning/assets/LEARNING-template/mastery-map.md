@@ -5,22 +5,22 @@ kanban
     future[future]
         [GraphQL basics
         KW: graphql, query, mutation
-        UPDATED: 2026-02-14]
+        UPDATED: YYYY-MM-DD]
 
     soon[soon]
         [REST auth flow
         KW: jwt, auth, token
-        UPDATED: 2026-02-14]
+        UPDATED: YYYY-MM-DD]
 
     learning[learning]
         [Service layer design
         KW: service, layering, dependency
-        UPDATED: 2026-02-14]
+        UPDATED: YYYY-MM-DD]
 
-    done[mastered]
+    mastered[mastered]
         [Git branching basics
         KW: git, branch, rebase
-        UPDATED: 2026-02-14]
+        UPDATED: YYYY-MM-DD]
 ```
 
 Card format:

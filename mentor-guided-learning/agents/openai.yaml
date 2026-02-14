@@ -1,4 +1,4 @@
 interface:
   display_name: "Mentor Guided Learning"
   short_description: "Project-level mentor setup and continuous learning orchestration"
-  default_prompt: "In $mentor-guided-learning mode, first check whether this is first-time use; if yes, set up .LEARNING and AGENTS.md, otherwise continue milestone learning with project runtime rules."
+  default_prompt: "In $mentor-guided-learning mode, first output the friendly opener, then check whether this is first-time use; if yes, set up .LEARNING and the synchronized runtime rules files (AGENTS.md/GEMINI.md/CLAUDE.md); otherwise continue milestone learning with the runtime rules."
