@@ -46,7 +46,15 @@ $mentor-guided-learning
 
 Choose one method below.
 
-### Method 1: Direct Download (Beginner Friendly)
+### Method 1: SKills CLI
+
+Use `Terminal` and run:
+
+`npx skills add guanyu-gerry-tao/skill-mentor-guided-learning`
+
+install with instruction.
+
+### Method 2: Direct Download (Beginner Friendly)
 
 1. Download this repository as ZIP from GitHub (`Code` -> `Download ZIP`).
 2. Unzip it.
@@ -60,10 +68,6 @@ Choose one method below.
 ```text
 $mentor-guided-learning
 ```
-
-### Method 2: Skills CLI
-
-WIP: coming soon
 
 ## Validate (Optional)
 
