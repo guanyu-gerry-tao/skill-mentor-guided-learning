@@ -46,13 +46,16 @@ $mentor-guided-learning
 
 Choose one method below.
 
-### Method 1: SKills CLI
+### Method 1: Skills CLI
 
-Use `Terminal` and run:
+If you have node, use `Terminal` and run:
 
 `npx skills add guanyu-gerry-tao/skill-mentor-guided-learning`
 
 install with instruction.
+
+> [!TIP]
+> Check out [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to use `npx` if you can't run it.
 
 ### Method 2: Direct Download (Beginner Friendly)
 
