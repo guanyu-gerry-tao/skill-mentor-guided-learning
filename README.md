@@ -1,6 +1,6 @@
 # Mentor Guided Learning Skill
 
-A project-level mentoring *skill* for Codex that helps learners move from idea to implementation with structured guidance, progress tracking, and optional learning-note consolidation.
+A project-level mentoring *skill* for Codex/Claude-Code/Gemini-cli that helps learners move from idea to implementation with structured guidance, progress tracking, and optional learning-note consolidation.
 
 ## What This Is
 
