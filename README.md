@@ -98,7 +98,11 @@ If not, you can also validate by invoking the skill and checking for any error m
 
 ## Staring My Project!
 
+⭐️⭐️⭐️
+
 If you like this skill or you actually learnt something with this skill, please consider starring the repository to show your support!
+
+⭐️⭐️⭐️
 
 ## Contributing
 
