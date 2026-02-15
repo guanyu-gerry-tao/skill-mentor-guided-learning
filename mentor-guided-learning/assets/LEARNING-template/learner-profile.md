@@ -7,7 +7,7 @@
 
 ## Preferences
 - pace:
-- style:
+- style:  # default: big-chunk (panorama-first); step-by-step only on request or when debugging requires it
 - language:
 - goals:
 - project_mentor_type:  # ai-lead-user-practice | ai-build-explain | ai-explain-human-build

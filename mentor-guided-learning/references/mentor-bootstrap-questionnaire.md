@@ -39,7 +39,7 @@ If user skips fields, write these defaults:
 2. `current_context: inferred from project scan (fallback: current project)`
 3. `prior_experience: unknown`
 4. `pace: medium`
-5. `style: step-by-step`
+5. `style: big-chunk (panorama-first), comprehensive, with examples and analogies`
 6. `language: zh-CN`
 7. `goals: complete current milestone`
 8. `project_mentor_type:`
